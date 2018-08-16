@@ -1,6 +1,6 @@
 # Hive Commons License
 
-The Hive Commons License (HCL) is a proposed alternative to copyleft and permissive open source licensing intended to be self-sustainable while remaining attractive to commercial investment. This balance is maintained by enforcing a self-assess tax on deriviative works that are kept proprietary. 
+The Hive Commons License (HCL) is a proposed alternative to copyleft and permissive open source licensing intended to be self-sustainable while remaining attractive to commercial investment. This balance is maintained by enforcing a self-assessed "tax" on deriviative works that are kept proprietary. 
 
 **Status**: 🔬 Research
 
