@@ -1,7 +1,16 @@
 # Hive Commons License
 
-The Hive Commons License is a proposed alternative to copyleft and permissive open source licensing intended to be enforceably self-sustainable while remaining attractive to commercial investment.
+The Hive Commons License (HCL) is a proposed alternative to copyleft and permissive open source licensing intended to be enforceably self-sustainable while remaining attractive to commercial investment. This balance is maintained by enforcing a self-assess tax on deriviative works that are kept proprietary. 
 
-Software that is licensed under the Hive Commons License can be used and distributed with so long as the user complies with one of two following options. **(1)** The user agrees to open source and license any derivative work under the Hive Commons License. Or **(2)** the user agrees to make a self-assessment of the value of the proprietary derivative work and donate a proportion to a  non-profit foundation with a charter to grow the commons for the benefit of the public. If anyone offers to pay the user an amount equal to their self-assessed valuation the user agrees to immediately open source the derivative works under this license in exchange for the payment.
+**Status**: 🔬 Research
 
-The first provision would create a viral quality to the license similar to existing copyleft licenses, while the second provision provides an alternative means of compliance that allows for use of the software for proprietary commercial applications while ensuring that such uses fairly and consistently grow the commons. 
+## Core Provisions
+- Software under this license can be used freely so long as any derivative works are provided open source and under the same license.
+- Software under this license can be used while keeping derivative works proprietary, but such derivative works are subjected to a self-assessed tax so long as they remain proprietary.
+- If a proprietary derivative work’s owner is paid their self-assessed valuation they must immediately open source the propriertary derivative work.
+
+## Contributions Wanted
+
+The conceptual and practical feasibility of the Hive Commons License is still being assessed. Any and all contributions are welcome and highly encouraged. Please don't hesistate to [open issues](https://github.com/1Hive/HCL/issues), or [join the discussion on gitter](https://gitter.im/1Hive). 
+
+If you're an attorney with experience **drafting software license** or working with **non-profit software foundations** your efforts would be especially helpful at this stage!
