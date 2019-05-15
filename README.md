@@ -11,6 +11,6 @@ The Hive Commons License (HCL) is a proposed alternative to copyleft and permiss
 
 ## Contributions Wanted
 
-The conceptual and practical feasibility of the Hive Commons License is still being assessed. Any and all contributions are welcome and highly encouraged. Please don't hesistate to [open issues](https://github.com/1Hive/HCL/issues), or [join the discussion on gitter](https://gitter.im/1Hive). 
+The conceptual and practical feasibility of the Hive Commons License is still being assessed. Any and all contributions are welcome and highly encouraged. Please don't hesistate to [open issues](https://github.com/1Hive/HCL/issues), or join our [keybase chat](https://1hive.org/docs/contribute/keybase.html). 
 
 If you're an attorney with experience **drafting software licenses** or working with **non-profit software foundations** your efforts would be especially helpful at this stage!
